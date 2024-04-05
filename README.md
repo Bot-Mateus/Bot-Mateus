@@ -46,6 +46,11 @@ Durante meus projetos, adoto metodologias ágeis e sempre busco seguir as melhor
 </p>
 
 ## Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/mateus-carvalho-da-silva/)
-- [Website](https://elbrusagency.com/)
-- [Email](mailto:carvalho.silva2001@gmail.com)
+
+<p align="left">
+<!-- <a href="https://elbrusagency.com/"><img src="https://img.shields.io/badge/-elbrusagency.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/mateus-carvalho-da-silva/"><img src="https://img.shields.io/badge/-Mateus%20Carvalho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:carvalho.silva2001@gmail.com"><img src="https://img.shields.io/badge/-carvalho.silva2001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/mateusoaksilva/"><img src="https://img.shields.io/badge/-@mateusoaksilva-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
+
