@@ -15,24 +15,25 @@ Durante meus projetos, adoto metodologias ágeis e sempre busco seguir as melhor
 
 ## 🛠 Linguagens e ferramentas
 <p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/-Java-007396?logo=Java&style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=Amazon%20AWS&style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/-Glitch-2800FF?logo=Glitch&style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=Selenium&style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-Django-092E20?logo=Django&style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/-Flask-000000?logo=Flask&style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=Visual%20Studio%20Code&style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/-IntelliJ-000000?logo=IntelliJ%20IDEA&style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
 </p>
 
 
