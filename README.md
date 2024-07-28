@@ -16,11 +16,9 @@ Durante meus projetos, adoto metodologias ágeis e sempre busco seguir as melhor
 ## 🛠 Linguagens e ferramentas
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=Amazon%20AWS&style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/-Glitch-2800FF?logo=Glitch&style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-Django-092E20?logo=Django&style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/-Flask-000000?logo=Flask&style=for-the-badge"/> 
@@ -32,7 +30,6 @@ Durante meus projetos, adoto metodologias ágeis e sempre busco seguir as melhor
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=Visual%20Studio%20Code&style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/-IntelliJ-000000?logo=IntelliJ%20IDEA&style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
 </p>
 
